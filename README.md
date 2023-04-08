@@ -1,2 +1,1 @@
-# prepcourse-henry
-prueba del modulo 2 del curso de henry
+este proyecto es una prueba de como clonar un repositorio y llevarlo a nuestro escritorio local
